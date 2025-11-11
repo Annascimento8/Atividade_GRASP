@@ -51,7 +51,7 @@ O sistema simula o **cadastro e listagem de alunos**, aplicando boas práticas d
 
 ---
   
- **Disciplina:** Arquitetura de Software  
+ **Disciplina:** Programação orientada a objetos  
  **Atividade:** Aplicação prática dos princípios GRASP  
  **Linguagem:** Java
 
