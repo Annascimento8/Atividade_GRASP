@@ -1,3 +1,10 @@
+package com.cadastroalunos.model;
+
+/* Nenhum padrão GRASP aplicado.
+/ Justificativa: Esta é apenas uma classe de entidade simples,
+/ responsável por representar os dados de um aluno (nome e matrícula).
+*/ 
+
 public class Aluno {
     private String nome;
     private String matricula;
@@ -15,12 +22,18 @@ public class Aluno {
         return matricula;
     }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+    
+    public void setMatricula(String matricula) {
+        this.matricula = matricula;
+    }
+
     public void mostrarDados() {
         System.out.println("Aluno: " + nome + " | Matrícula: " + matricula);
     }
 }
 
 
-// Nenhum padrão GRAPS aplicado.
-// Justificativa: Esta é apenas uma classe de entidade simples,
-// responsável por representar os dados de um aluno (nome e matrícula).
+

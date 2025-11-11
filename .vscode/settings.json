@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "cadastrodealunos/repository",
+        "Cadastrodealunos/model",
+        "Cadastrodealunos",
+        "Cadastro de alunos",
+        "cadastro_de_aluno/cadastro_de_aluno/src/main/java/com/cadastroalunos"
+    ]
+}
