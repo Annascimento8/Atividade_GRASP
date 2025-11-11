@@ -1,7 +1,7 @@
 # Projeto Java - Cadastro de Alunos (Padrões GRASP)
 
 ## Descrição
-Este projeto foi desenvolvido em **Java** com o objetivo de aplicar na prática os princípios **GRASP (General Responsibility Assignment Software Patterns)**, aprendidos na disciplina de **Arquitetura de Software**.  
+Este projeto foi desenvolvido em **Java** com o objetivo de aplicar na prática os princípios **GRASP (General Responsibility Assignment Software Patterns)**, aprendidos na disciplina de **Programação orientada a objetos**.  
 
 O sistema simula o **cadastro e listagem de alunos**, aplicando boas práticas de design orientado a objetos, com foco em **baixo acoplamento** e **alta coesão**.  
 
